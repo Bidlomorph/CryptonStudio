@@ -1,0 +1,13 @@
+import Vue from 'vue'
+import Vuex from 'vuex'
+import characters from './characters'
+import FavoriteCharacters from "./favoriteCharacters";
+
+Vue.use(Vuex)
+
+export default new Vuex.Store({
+    modules: {
+        characters,
+        FavoriteCharacters
+    }
+})
