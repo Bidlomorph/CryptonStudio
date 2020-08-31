@@ -1,24 +1,15 @@
-# cryptonstudio
+# Тестовое задание cryptonstudio
 
-## Project setup
+## Для запуска проекта
+## 1) Установить необходимые пакеты
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### 2) Запустить приложение
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Инфо
+## 1) Минимальное разрешение 380 пикселей
+## 2) Код имеет комментарии
